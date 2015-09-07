@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>videodesk</name>
+	<displayName><![CDATA[videodesk]]></displayName>
+	<version><![CDATA[2.2]]></version>
+	<description><![CDATA[Offer face-to-face customer service on your website via text, audio or video chat &lt;a href=&#039;http://www.videodesk.com/features?lang=it&#039; target=&#039;_blank&#039; class=&#039;action_module&#039;&gt;Read more&lt;/a&gt;]]></description>
+	<author><![CDATA[Videodesk]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to delete this module ?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>mymodcomments</name>
+	<displayName><![CDATA[Base module of prestashop]]></displayName>
+	<version><![CDATA[0.4]]></version>
+	<description><![CDATA[Base module of prestashop.]]></description>
+	<author><![CDATA[4words]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

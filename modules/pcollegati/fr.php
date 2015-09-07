@@ -1,0 +1,31 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{advancedrelatedproducts}prestashop>advancedrelatedproducts_f3973fb78fa02a7729fc260dda1ae32d'] = 'Produis associés avancés';
+$_MODULE['<{advancedrelatedproducts}prestashop>advancedrelatedproducts_0c023a4cf37b6ee8f76fdc39b297006a'] = 'Améliorez vos ventes en affichant les produits associés en eux.';
+$_MODULE['<{advancedrelatedproducts}prestashop>config_d501fc4e77dfee36c06cf841431f846a'] = 'Total des ventes (produits associes)';
+$_MODULE['<{advancedrelatedproducts}prestashop>config_4e72c265923b6db2808911301776c05e'] = 'Ventes grace au module';
+$_MODULE['<{advancedrelatedproducts}prestashop>config_716f24b05f4ca4376e9bee3ba312bf48'] = 'Ventes grâce au module';
+$_MODULE['<{advancedrelatedproducts}prestashop>config_80cbddde2192d459a99ee9b8088a6df5'] = 'Le mois dernier';
+$_MODULE['<{advancedrelatedproducts}prestashop>config_2f33528aa63d67f6be1b982ab795f2c4'] = 'Le trimestre dernier';
+$_MODULE['<{advancedrelatedproducts}prestashop>config_89f18cc11c05c28b6fb5988db58791c5'] = 'Les six derniers mois';
+$_MODULE['<{advancedrelatedproducts}prestashop>config_00f715e6996082570427a235b16e691a'] = 'L\'année passée';
+$_MODULE['<{advancedrelatedproducts}prestashop>config_254f642527b45bc260048e30704edb39'] = 'Configuration';
+$_MODULE['<{advancedrelatedproducts}prestashop>config_8ff9b09613f4633d9cb21eef3c6a4835'] = 'Appliquer dans les deux sens les relations entre les produits';
+$_MODULE['<{advancedrelatedproducts}prestashop>config_d4d1a80f20f5624077123bd7f210179b'] = 'Nombre de produits à afficher sur la fiche produit';
+$_MODULE['<{advancedrelatedproducts}prestashop>config_fd04a7ed4a1d769e3413ed7ec2416a5d'] = 'Afficher les nom du produit';
+$_MODULE['<{advancedrelatedproducts}prestashop>config_2eaa667c55f2fbd2f74f6b2ee2c8b0e4'] = 'Afficher le prix du produit';
+$_MODULE['<{advancedrelatedproducts}prestashop>config_81b89fe3d98690be65a3bb2a90f3d693'] = 'Afficher le prix du produit avant réduction';
+$_MODULE['<{advancedrelatedproducts}prestashop>config_316aabd6a46cfe0c2ee63a1daa7651c5'] = 'Afficher le bouton ajouter au panier';
+$_MODULE['<{advancedrelatedproducts}prestashop>config_d4dccb8ca2dac4e53c01bd9954755332'] = 'Sauvegarder la configuration';
+$_MODULE['<{advancedrelatedproducts}prestashop>template_727a91a8366a261e50716f0a1cbd1901'] = 'Rechercher un produit';
+$_MODULE['<{advancedrelatedproducts}prestashop>template_0d5597f6325f8215ea13a35cd1a7f449'] = 'Produits liés';
+$_MODULE['<{advancedrelatedproducts}prestashop>template_df644ae155e79abf54175bd15d75f363'] = 'Nom du produit';
+$_MODULE['<{advancedrelatedproducts}prestashop>template_004bf6c9a40003140292e97330236c53'] = 'Action';
+$_MODULE['<{advancedrelatedproducts}prestashop>template_1063e38cb53d94d386f21227fcd84717'] = 'Supprimer';
+$_MODULE['<{advancedrelatedproducts}prestashop>template_d501fc4e77dfee36c06cf841431f846a'] = 'Total des ventes (produits associes)';
+$_MODULE['<{advancedrelatedproducts}prestashop>template_4e72c265923b6db2808911301776c05e'] = 'Ventes grace au module';
+$_MODULE['<{advancedrelatedproducts}prestashop>template_f60dd9aa0737e0f05f54f8984a7dcad2'] = 'Ventes depuis la fiche de ce produit';
+$_MODULE['<{advancedrelatedproducts}prestashop>product_a24ecc297024c592db01292c3b114a44'] = 'Produits recommandés :';
+$_MODULE['<{advancedrelatedproducts}prestashop>product_2d0f6b8300be19cf35e89e66f0677f95'] = 'Ajouter au panier';

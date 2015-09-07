@@ -1,0 +1,61 @@
+.cpcProductsTitle {
+	font-weight: bold;
+	font-size: 15px;
+}
+.cpcProducts {
+
+}
+.cpcProducts .product {
+	border: 1px solid #D0D1D5;
+	margin: 8px 0;
+	padding: 4px;
+	text-decoration: none;
+}
+
+.cpcProducts .product a.imgBlock {
+	display: block;
+	text-decoration: none;
+	overflow:hidden;
+}
+.cpcProducts .product:hover {
+	border-color: #595A5E;
+}
+
+.cpcProducts .product .img{display: block; float:left;}
+
+.cpcProducts .product .name {
+	display: block;
+	float:left;
+	padding-left: 52px;
+	margin-left: -48px;
+	width: 100%;
+	font-size: 13px;
+	line-height: 18px
+}
+
+.cpcProducts .product .price{
+	display: block;
+	text-align:right;
+}
+
+
+.cpcProducts .product .price .priceWhitoutReduction {
+	font-weight: normal;
+	color: #374853;
+	text-decoration: line-through;
+	font-size: 11px;
+}
+/*
+.cpcProducts .product a.exclusive {
+	margin: auto;
+	margin-bottom: 5px;
+}
+
+.container_9 .cpcProducts .product a.exclusive { 
+	width: 100px;
+	display: block;
+	text-align: center;
+}*/
+.cpcProducts .clear {
+	clear: both;
+}

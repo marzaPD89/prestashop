@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>vatnumber</name>
+	<displayName><![CDATA[Partita IVA Europea]]></displayName>
+	<version><![CDATA[1.7.2]]></version>
+	<description><![CDATA[Attiva l&#039;inserimento della partita IVA comunitaria alla creazione dell&#039;indirizzo. &Egrave; necessario riempire il campo Azienda per permettere l&#039;inserimento della partita IVA.]]></description>
+	<author><![CDATA[PrestaShop]]></author>
+	<tab><![CDATA[billing_invoicing]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

@@ -1,0 +1,30 @@
+*ERROR* 	2015/04/07 - 17:32:32: Unknown collation: 'utf8'<br /><br /><pre>CREATE TABLE `ps_credittokenpayment_configuration` (
+	`id_row` INT NOT NULL,
+	`id_product` INT NOT NULL,
+	`credits` INT NOT NULL,
+	PRIMARY KEY (`id_row`, `id_product`)
+)
+COLLATE=utf8
+ENGINE=InnoDB</pre> at line 646 in file classes/db/Db.php
+*ERROR* 	2015/04/07 - 17:33:47: Table 'ps_credittokenpayment_configuration' already exists<br /><br /><pre>CREATE TABLE `ps_credittokenpayment_configuration` (
+	`id_row` INT NOT NULL,
+	`id_product` INT NOT NULL,
+	`credits` INT NOT NULL,
+	PRIMARY KEY (`id_row`, `id_product`)
+)
+ENGINE=InnoDB</pre> at line 646 in file classes/db/Db.php
+*ERROR* 	2015/04/07 - 17:35:49: Table 'ps_credittokenpayment_configuration' already exists<br /><br /><pre>CREATE TABLE `ps_credittokenpayment_configuration` (
+	`id_row` INT NOT NULL,
+	`id_product` INT NOT NULL,
+	`credits` INT NOT NULL,
+	PRIMARY KEY (`id_row`, `id_product`)
+)
+ENGINE=InnoDB</pre> at line 646 in file classes/db/Db.php
+*ERROR* 	2015/04/07 - 17:38:03: Table 'ps_credittokenpayment_configuration' already exists<br /><br /><pre>CREATE TABLE `ps_credittokenpayment_configuration` (
+	`id_row` INT NOT NULL,
+	`id_product` INT NOT NULL,
+	`credits` INT NOT NULL,
+	PRIMARY KEY (`id_row`, `id_product`)
+)
+COLLATE='latin1_swedish_ci'
+ENGINE=InnoDB</pre> at line 646 in file classes/db/Db.php

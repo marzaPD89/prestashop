@@ -1,0 +1,24 @@
+.form-group .col-lg-2 {
+	width: 16.6667% !important;
+}
+.addprd {
+	margin-left: 30px;
+}
+#token_form .form-group > div {
+    display: inline;
+    float: left;
+    width: 17%;
+    margin-right: 20px;
+}
+#token_form .form-group {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 0;
+}
+#token_form h4 {
+	padding-left: 0;
+}
+.form-group-delete.btn.btn-default {
+    margin-top: 22px;
+    width: auto !important;
+}

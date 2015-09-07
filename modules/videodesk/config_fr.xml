@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>videodesk</name>
+	<displayName><![CDATA[Videodesk]]></displayName>
+	<version><![CDATA[2.2]]></version>
+	<description><![CDATA[Fournit un service de mise en relation avec vos clients sur votre site Web via tchat texte, audio ou vid&eacute;o &lt;a href=&#039;http://videodesk.fr/features?lang=fr&#039; target=&#039;_blank&#039; class=&#039;action_module&#039;&gt;En savoir plus&lt;/a&gt;]]></description>
+	<author><![CDATA[Videodesk]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to delete this module ?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
